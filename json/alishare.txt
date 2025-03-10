@@ -1,0 +1,87 @@
+[
+    {
+        "share_name": "高清4K原盘",
+        "share_id": "5Y8JEASPriW"
+    },
+
+    {
+        "share_name": "热门影视合集",
+        "share_id": "5bsnAp5fbCW"
+    },
+
+
+    {
+        "share_name": "百T影视合集",
+        "share_id": "cdqCsAWD9wC?pwd=6666"
+        
+    },
+
+    {
+        "share_name": "热播电影1",
+        "share_id": "3eKuM6Nm8ac"
+    },
+    {
+        "share_name": "热播电影2",
+        "share_id": "hMQKH6wjohD"
+    },
+
+    {
+        "share_name": "热门影视合集",
+        "share_id": "5bsnAp5fbCW"
+    },
+
+
+    {
+        "share_name": "热播电视剧",
+        "share_id": "Me6u2T7Y9AJ"
+    },
+    {
+        "share_name": "热播综艺",
+        "share_id": "vcUsRCM2vEr"
+    },
+    {
+        "share_name": "经典动漫合集",
+        "share_id": "iWZcVEHdnuf"
+    },
+        {
+        "share_name": "经典儿童动画",
+        "share_id": "7dxonaAXGUy"
+    },
+    {
+        "share_name": "最新美剧合集",
+        "share_id": "htGW1fWaLmm"
+    },
+    {
+        "share_name": "最新韩剧合集",
+        "share_id": "dRXhBqjcnz5"
+    },
+    {
+        "share_name": "4K影视",
+        "share_id": "wHPKUENKFsS"
+    },
+    {
+        "share_name": "英美剧场",
+        "share_id": "dKtTWcohQiP"
+    },
+    {
+        "share_name": "优品分享",
+        "share_id": "uWa9gbM3RJ7"
+    },
+    {
+        "share_name": "平凡分享",
+        "share_id": "4ydLxf7VgH7"
+    },
+    {
+        "share_name": "xiaaluo",
+        "share_id": "sg8CdGUwmUr"
+    },
+    {
+        "share_name": "综艺",
+        "share_id": "UuHi9PeYSVz"
+    },
+    {
+        "share_name": "综合",
+        "share_id": "v9To3HC6vhs"
+    }
+
+]
