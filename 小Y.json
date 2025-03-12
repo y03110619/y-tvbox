@@ -6,6 +6,16 @@
   
   "sites": [
 
+    {
+      "key": "csp_douban",
+      "name": "🎄明天|豆瓣豆瓣",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 
 
     {   
