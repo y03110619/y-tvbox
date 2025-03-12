@@ -1,11 +1,7 @@
 {
-  "spider":"./jar/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
-
+  "spider": "./jar/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
   "wallpaper": "./tvbox壁纸/1.PNG",
-
-  
   "sites": [
-
     {
       "key": "csp_douban",
       "name": "🎄明天|豆瓣豆瓣",
@@ -16,9 +12,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
-
-    {   
+    {
       "key": "xl",
       "name": "🎄磁力|咻咻洛洛",
       "type": 3,
@@ -29,19 +23,17 @@
       "filterable": 1,
       "ext": "./json/修罗磁力.json"
     },
-
-    { "key":"电影港",
-      "name":"🎄磁力|电影港",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "jar":"./jar/ttkx.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./json/电影港.json"
+    {
+      "key": "电影港",
+      "name": "🎄磁力|电影港",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/电影港.json"
     },
- 
-
     {
       "key": "csp_xl8",
       "name": "🎄磁力|迅雷吧",
@@ -52,20 +44,18 @@
       "quickSearch": 1,
       "ext": "./json/迅雷磁力.json"
     },
-
-   {
-     "key": "电影天堂_js",
-     "name": "🎄磁力|电影天堂",
+    {
+      "key": "电影天堂_js",
+      "name": "🎄磁力|电影天堂",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar":"./jar/ttkx.jar",
+      "jar": "./jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "ext": "./json/电影天堂.json"
-   },
-
+    },
     {
       "key": "Mp4电影",
       "name": "🎄磁力|Mp4电影",
@@ -76,8 +66,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-    {   
+    {
       "key": "csp_gqz",
       "name": "🎄磁力|高清族",
       "type": 3,
@@ -88,17 +77,14 @@
       "filterable": 1,
       "ext": "./json/高清族.json"
     },
-
-    {  
-       "key":"csp_BTPiaoHua",
-       "name":"🎄磁力|飘花",
-       "type":3,
-       "api":"csp_BTPiaoHua",
-       "jar":"./jar/candymuj.jar",
-       "searchable":1
+    {
+      "key": "csp_BTPiaoHua",
+      "name": "🎄磁力|飘花",
+      "type": 3,
+      "api": "csp_BTPiaoHua",
+      "jar": "./jar/candymuj.jar",
+      "searchable": 1
     },
-
-        
     {
       "key": "美剧天堂",
       "name": "🎄磁力|美剧天堂",
@@ -109,7 +95,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_MeijuMi",
       "name": "🎄磁力|美剧迷",
@@ -117,20 +102,17 @@
       "api": "csp_MeijuMi",
       "jar": "./jar/ttkx.jar"
     },
-
-   {
-     "key":"csp_CandyMuj_haokongbu",
-     "name":"🎄磁力|HKB",
-     "type":3,
-     "api":"csp_CandyMuj_haokongbu",
-     "jar":"./jar/candymuj.jar",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
+    {
+      "key": "csp_CandyMuj_haokongbu",
+      "name": "🎄磁力|HKB",
+      "type": 3,
+      "api": "csp_CandyMuj_haokongbu",
+      "jar": "./jar/candymuj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
-
-
-   {
+    {
       "key": "新6V",
       "name": "🎄磁力|6V",
       "type": 3,
@@ -139,9 +121,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
-   },
-
-
+    },
     {
       "key": "荐片",
       "name": "🎄磁力|荐片",
@@ -153,8 +133,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-
     {
       "key": "SeedHub",
       "name": "🎄磁力|SeedHub",
@@ -165,8 +143,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-    {   
+    {
       "key": "csp_bgTV",
       "name": "🎄磁力|布谷4K",
       "type": 3,
@@ -177,7 +154,7 @@
       "filterable": 1,
       "ext": "./json/布谷TV.json"
     },
-{   
+    {
       "key": "csp_yfs",
       "name": "🎄磁力|音范丝4K",
       "type": 3,
@@ -188,7 +165,6 @@
       "filterable": 1,
       "ext": "./json/音范丝.json"
     },
-
     {
       "key": "csp_iqiyi",
       "name": "🎄明天|QIYI",
@@ -199,7 +175,6 @@
       "quickSearch": 1,
       "ext": "./json/iqiyi.json"
     },
-
     {
       "key": "csp_HDmoli",
       "name": "🎄明天|魔力高清",
@@ -209,10 +184,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./json/HDmoli.json"
-
-
     },
-
     {
       "key": "萌米",
       "name": "🎄明天|萌米",
@@ -224,7 +196,6 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
     },
-
     {
       "key": "csp_Lkdy",
       "name": "🎄明天|来看影视",
@@ -232,8 +203,6 @@
       "api": "csp_Lkdy",
       "jar": "./jar/PandaQ250227c.jar"
     },
-
-    
     {
       "key": "欢视",
       "name": "🎄明天|欢视",
@@ -245,7 +214,6 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
-
     {
       "key": "热播",
       "name": "🎄明天|热播",
@@ -257,7 +225,84 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
-
+    {
+      "key": "文采",
+      "name": "🎄明天|文采秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🎄明天|苹果影视",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Auete",
+      "name": "🎄明天|Auete影视",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/"
+    },
+    {
+      "key": "alllive",
+      "name": "🎄明天|平台直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Dm84",
+      "name": "🎄明天|巴士动漫",
+      "type": 3,
+      "api": "csp_Dm84Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Ysj",
+      "name": "🎄明天|异界动漫",
+      "type": 3,
+      "api": "csp_YsjGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Anime1",
+      "name": "🎄明天|日本动漫",
+      "type": 3,
+      "api": "csp_Anime1Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "88",
+      "name": "🎄明天|88看球",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "csp_Gz360",
       "name": "🎄明天|瓜子影视",
@@ -266,7 +311,6 @@
       "jar": "./jar/Feimao1217.txt",
       "playerType": 2
     },
-
     {
       "key": "流光影视",
       "api": "csp_XBPQ",
@@ -275,9 +319,6 @@
       "type": 3,
       "ext": "./json/流光影院.json"
     },
-
-
-
     {
       "key": "csp_Quanwk",
       "name": "🎄明天|全看影视",
@@ -286,7 +327,6 @@
       "jar": "./jar/Feimao1217.txt",
       "ext": "https://www.91qkw.com"
     },
-
     {
       "key": "csp_J",
       "name": "🎄明天|饺子外剧",
@@ -295,8 +335,6 @@
       "jar": "./jar/Feimao1217.txt",
       "playerType": 2
     },
-
-
     {
       "key": "Lib",
       "name": "🎄明天|立播秒播",
@@ -315,51 +353,16 @@
     },
 
     {
-      "key": "文采",
-      "name": "🎄明天|文采秒播",
+      "key": "csp_七新影视(业余)",
+      "name": "🎄明天|七新影视",
       "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 2,
+      "jar": "./jar/ttkx.jar",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "./json/七新影视.json"
     },
-
-    {
-      "key": "苹果",
-      "name": "🎄明天|苹果影视",
-      "type": 3,
-      "api": "csp_LiteAppleGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-        "key": "csp_七新影视(业余)",
-        "name": "🎄明天|七新影视",
-        "type": 3,
-        "jar": "./jar/ttkx.jar",
-        "api": "csp_XYQHiker",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "./json/七新影视.json"
-    },
-
-
-    {
-      "key": "Auete",
-      "name": "🎄明天|Auete影视",
-      "type": 3,
-      "api": "csp_AueteGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
-    },
-
 
     {
       "key": "lltv_QYDH",
@@ -371,7 +374,6 @@
       "filterable": 1,
       "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
     },
-
     {
       "key": "lltv_TXDH",
       "name": "🎄明天|腾讯动画",
@@ -382,8 +384,6 @@
       "filterable": 1,
       "ext": "https://yyrj.fun/bb/donghua/tengxun.js"
     },
-
-
     {
       "key": "国学",
       "name": "🎄明天|百科启蒙",
@@ -395,8 +395,6 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
     },
-
-
     {
       "key": "drpy_js_Alist",
       "name": "🎄明天|Alist网盘",
@@ -404,68 +402,23 @@
       "api": "./js/alist.js",
       "ext": "./json/alist.json"
     },
-
     {
       "key": "AliShare",
       "name": "🎄明天|阿里分享",
       "type": 3,
       "api": "csp_AliShare",
-      "jar":"./jar/ttkx.jar",
+      "jar": "./jar/ttkx.jar",
       "searchable": 1,
       "changeable": 1,
       "filterable": 0,
       "index": 0,
       "ext": {
-      "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "share": "./json/alishare.txt"
-              },
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "share": "./json/alishare.txt"
+      },
       "style": {
-                "type": "list"
-                }
-    },
-
-
-   {
-      "key": "alllive",
-      "name": "🎄明天|平台直播",
-      "type": 3,
-      "api": "csp_AllliveGuard",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-
-
-
-    {
-      "key": "Dm84",
-      "name": "🎄明天|巴士动漫",
-      "type": 3,
-      "api": "csp_Dm84Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key": "Ysj",
-      "name": "🎄明天|异界动漫",
-      "type": 3,
-      "api": "csp_YsjGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key": "Anime1",
-      "name": "🎄明天|日本动漫",
-      "type": 3,
-      "api": "csp_Anime1Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+        "type": "list"
+      }
     },
 
     {
@@ -474,18 +427,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/NT动漫.js"
-    },
-
-    {
-     "key": "88",
-      "name": "🎄明天|88看球",
-      "type": 3,
-      "api": "csp_Sir88Guard",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
     },
 
     {
@@ -501,10 +442,9 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-               "json":"./js/bilibili.json"
-              }
+        "json": "./js/bilibili.json"
+      }
     },
-
     {
       "key": "配置中心",
       "name": "🎄网盘|设置中心",
@@ -513,8 +453,7 @@
       "jar": "./jar/PandaQ250227c.jar",
       "playerType": 2
     },
-
-   {
+    {
       "key": "玩偶",
       "name": "🎄网盘|玩偶4K",
       "type": 3,
@@ -528,10 +467,7 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
-   },
-
-
-
+    },
     {
       "key": "csp_Duopan",
       "name": "🎄网盘|蜡笔4K",
@@ -549,7 +485,6 @@
         "url_key": "Duopan2"
       }
     },
-
     {
       "key": "csp_XMUC",
       "name": "🎄网盘|小米4K",
@@ -566,8 +501,6 @@
         "url_key": "XMUC"
       }
     },
-
-
     {
       "key": "csp_FeiMaoUC",
       "name": "🎄网盘|闪电4K",
@@ -576,13 +509,12 @@
       "jar": "./jar/PandaQ250227c.jar",
       "filterable": 1,
       "ext": {
-      "site_urls": [
+        "site_urls": [
           "http://1.95.79.193/"
         ],
-      "url_key": "FeiMaoUC"
+        "url_key": "FeiMaoUC"
       }
     },
-
     {
       "key": "csp_Netfixtv",
       "name": "🎄网盘|至臻4K",
@@ -606,9 +538,6 @@
         }
       }
     },
-
-
-
     {
       "key": "木耳无广",
       "name": "🎄采集|木耳无广",
@@ -617,9 +546,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-
-
     {
       "key": "cjzy_极速",
       "name": "🎄采集|极速资源",
@@ -656,7 +582,6 @@
         "欧美综艺"
       ]
     },
-
     {
       "key": "bfzy",
       "name": "🎄采集|暴风资源",
@@ -665,10 +590,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-
-
-
     {
       "key": "影图资源",
       "name": "🎄采集|影图影视",
@@ -677,7 +598,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
     {
       "key": "索尼",
       "name": "🎄采集|索尼影视",
@@ -688,7 +608,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
     {
       "key": "非凡",
       "name": "🎄采集|非凡影视",
@@ -697,7 +616,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
     {
       "key": "光速资源",
       "name": "🎄采集|光速资源",
@@ -706,7 +624,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
     {
       "key": "天空资源",
       "name": "🎄采集|天空资源",
@@ -715,10 +632,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-
-
-  {
+    {
       "key": "抠搜",
       "name": "🎄盘搜|抠抠搜搜",
       "type": 3,
@@ -731,7 +645,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "UC",
       "name": "🎄盘搜|优汐搜搜",
@@ -745,8 +658,6 @@
         "from": "4k|auto"
       }
     },
-
-
     {
       "key": "PanSso",
       "name": "🎄盘搜|盘他三盘",
@@ -760,7 +671,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "YpanSo",
       "name": "🎄盘搜|盘她三盘",
@@ -774,7 +684,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "xzso",
       "name": "🎄盘搜|盘它三盘",
@@ -788,7 +697,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "米搜",
       "name": "🎄盘搜|夸父米搜",
@@ -802,7 +710,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "夸搜",
       "name": "🎄盘搜|夸父夸搜",
@@ -817,7 +724,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "Aliso",
       "name": "🎄盘搜|盘搜阿狸",
@@ -831,7 +737,6 @@
         "from": "4k|auto"
       }
     },
-
     {
       "key": "YiSo",
       "name": "🎄盘搜|易搜阿狸",
@@ -845,14 +750,8 @@
         "from": "4k|auto"
       }
     }
-
-
-
-
   ],
-
   "logo": "https://gitlab.com/y03110619/images/-/raw/main/头像.png",
-  
   "lives": [
     {
       "name": "明天电视直播1",
@@ -860,34 +759,25 @@
       "url": "https://live.zbds.top/tv/iptv4.m3u",
       "playerType": 1
     },
-
     {
       "name": "明天电视直播2",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.txt",
       "playerType": 1
     },
-
-
     {
       "name": "明天ipv6直播",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv6.m3u",
       "playerType": 1
     }
-
-
-
   ],
-  
   "parses": [
-
     {
       "name": "Json聚合",
       "type": 3,
       "url": "Demo"
     },
-
     {
       "name": "虾米解析",
       "type": 0,
@@ -903,8 +793,7 @@
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
     },
-
-   {
+    {
       "name": "巧技解析",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
@@ -934,7 +823,6 @@
         }
       }
     },
-
     {
       "name": "皮皮虾",
       "type": "1",
@@ -946,13 +834,11 @@
         ]
       }
     },
-
     {
       "name": "ck解析",
       "type": 0,
       "url": "https://www.ckplayer.vip/jiexi/?url="
     },
-
     {
       "name": "云解析",
       "type": 0,
@@ -963,44 +849,32 @@
         }
       }
     },
-
-
     {
       "name": "m3u8解析",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
-
-
     {
       "name": "8090解析",
       "type": 0,
       "url": "https://www.8090g.cn/?url="
     },
-
     {
       "name": "基岩解析",
       "type": 0,
       "url": "https://jx.wujiyan.cc/?url="
     },
-
     {
       "name": "夜幕解析",
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
-    },  
-
+    },
     {
       "name": "量子解析",
       "type": 0,
       "url": "https://lzplayer.tv/?url="
     }
-
-
-
   ],
-  
-  
   "flags": [
     "youku",
     "优酷",
@@ -1036,7 +910,6 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  
   "rules": [
     {
       "name": "暴风",
