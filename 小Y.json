@@ -196,13 +196,7 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
     },
-    {
-      "key": "csp_Lkdy",
-      "name": "🎄明天|来看影视",
-      "type": 3,
-      "api": "csp_Lkdy",
-      "jar": "./jar/PandaQ250227c.jar"
-    },
+
     {
       "key": "欢视",
       "name": "🎄明天|欢视",
@@ -351,7 +345,13 @@
         "site": "https://libvio.link"
       }
     },
-
+    {
+      "key": "csp_Lkdy",
+      "name": "🎄明天|来看影视",
+      "type": 3,
+      "api": "csp_Lkdy",
+      "jar": "./jar/PandaQ250227c.jar"
+    },
     {
       "key": "csp_七新影视(业余)",
       "name": "🎄明天|七新影视",
