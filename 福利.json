@@ -12,11 +12,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-               "请求头": "User-Agent$MOBILE_UA",
-               "编码": "UTF-8",
                "首页":"韩国主播",
-               "分类url": "https://wxts.wuxiants360.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-               "数组": "<li>&&</li>",
+               "分类url": "https://wxts.wuxiants399.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+               "数组": "class=\"thumbnail\"&&</li>",
                "图片": "src=\"&&\"",
                "链接": "href=\"&&\"",
                "副标题":"p>&&</p",
@@ -81,36 +79,15 @@
 			"filterable": 1,
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
+        "首页":"国产传媒",
 				"分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
 				"分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
 			}
 		},
 
-    {
-      "key": "drpyS_黑料不打烊[密]",
-      "name": "黑料网",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/黑料不打烊[密]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-
-    {
-      "key": "drpyS_大嫂TV[密]",
-      "name": "嫂嫂TV",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/大嫂TV[密]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-
   {
       "key": "❤ 乐播资源",
-      "name": " ❤乐播资源",
+      "name": " ❤乐播",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -121,7 +98,7 @@
 
    {
       "key": "ASK",
-      "name": " 奥斯卡资源",
+      "name": " 奥斯卡",
       "type": 0,
       "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -131,7 +108,7 @@
 
     {
       "key": "*大地资源",
-      "name": "🏆大地资源",
+      "name": "大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
@@ -139,7 +116,7 @@
     },
 		{
 			"key": "AV小次郎",
-			"name": "👯‍♀️AV┃小次郎",
+			"name": "小次郎",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./jar/xbpq.jar",
@@ -177,7 +154,7 @@
   
     {
       "key": "❤淫水机  ",
-      "name": "❤淫水机资源",
+      "name": "❤淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -187,7 +164,7 @@
 
     {
       "key": " ❤香奶儿  ",
-      "name": "❤香奶儿资源",
+      "name": "❤香奶儿",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -197,7 +174,7 @@
 
     {
       "key": "❤色猫资源",
-      "name": "❤色猫资源",
+      "name": "❤色猫",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -251,7 +228,7 @@
   
     {
       "key": "❤番号资源",
-      "name": "❤番号资源",
+      "name": "❤番",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -261,7 +238,7 @@
 
     {
       "key": "❤美少女   ",
-      "name": "❤美少女资源",
+      "name": "❤美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -271,7 +248,7 @@
   
     {
       "key": " ❤白嫖资源 ",
-      "name": "❤白嫖资源",
+      "name": "❤白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -280,7 +257,7 @@
     },
     {
       "key": "❤黄AV资源 ",
-      "name": "❤黄AV资源",
+      "name": "❤黄",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -291,7 +268,7 @@
 
     {
       "key": "♥️富二代     ",
-      "name": "♥️富二代资源",
+      "name": "♥️富二代",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=list",
       "searchable": 1,
@@ -301,7 +278,7 @@
     
     {
       "key": "♥️森林专场",
-      "name": "♥️森林资源",
+      "name": "♥️森林",
       "type": 1,
       "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
