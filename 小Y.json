@@ -166,6 +166,18 @@
       "ext": "./json/音范丝.json"
     },
     {
+      "key": "csp_yh",
+      "name": "🎄明天|樱花如雪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/樱花.json"
+    },
+
+    {
       "key": "csp_iqiyi",
       "name": "🎄明天|QIYI",
       "type": 3,
