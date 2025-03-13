@@ -1,17 +1,7 @@
 {
   
   "sites": [
-     
-    {
-      "key": "drpyS_xvideos[密]",
-      "name": "Xvideo",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/xvideos[密]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
+
 
     {"key": "wxts",
       "name": "无限臀山",
@@ -35,16 +25,6 @@
               }
     },
 
-    {
-      "key":"drpyS_草榴社区[密]",
-     "name":"草榴社区",
-     "type":4,
-     "api":"https://drpys.6516789.xyz/api/草榴社区[密]",
-     "searchable":2,
-     "filterable":0,
-     "quickSearch":0,
-     "ext":""
-    },
 
     {"key": "112VV",
       "name": "112VV",
@@ -67,20 +47,10 @@
               }
     },
 
-    {
-      "key": "drpyS_七度空间[密]",
-      "name": "七度空间",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/七度空间[密]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
 	  
 		{
-			"key": "指间的黑客",
-			"name": "激情",
+		"key": "指间的黑客",
+	        "name": "激情",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./jar/xbpq.jar",
