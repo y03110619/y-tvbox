@@ -144,17 +144,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_bgTV",
-      "name": "🎄磁力|布谷4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/布谷TV.json"
-    },
-    {
       "key": "csp_yfs",
       "name": "🎄磁力|音范丝4K",
       "type": 3,
@@ -469,7 +458,7 @@
       "key": "玩偶",
       "name": "🎄网盘|玩偶4K",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_WoGGGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -485,7 +474,7 @@
       "name": "🎄网盘|蜡笔4K",
       "type": 3,
       "api": "csp_Duopan",
-      "jar": "./jar/Feimao1217.txt",
+      "jar": "./jar/PandaQ250227c.jar",
       "filterable": 1,
       "ext": {
         "site_urls": [
@@ -502,13 +491,13 @@
       "name": "🎄网盘|小米4K",
       "type": 3,
       "api": "csp_Duopan",
-      "jar": "./jar/Feimao1217.txt",
+      "jar": "./jar/PandaQ250227c.jar",
       "filterable": 1,
       "ext": {
         "site_urls": [
           "http://www.mucpan.cc",
-          "http://ucmi.fun",
-          "http://www.ucmi.fun"
+          "https://milvdou.fun",
+          "https://54271.fun"
         ],
         "url_key": "XMUC"
       }
@@ -532,7 +521,7 @@
       "name": "🎄网盘|至臻4K",
       "type": 3,
       "api": "csp_Duopan",
-      "jar": "./jar/Feimao1217.txt",
+      "jar": "./jar/PandaQ250227c.jar",
       "filterable": 1,
       "ext": {
         "site_urls": [
