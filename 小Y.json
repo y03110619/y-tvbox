@@ -12,6 +12,19 @@
       "quickSearch": 0,
       "filterable": 0
     },
+
+    {
+      "key": "csp_sbb",
+      "name": "🎄明天|素白白",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/素白白.json"
+    },
+    
     {
       "key": "xl",
       "name": "🎄磁力|咻咻洛洛",
