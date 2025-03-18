@@ -14,6 +14,18 @@
     },
 
     {
+      "key": "csp_cz",
+      "name": "🎄明天|厂长",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/厂长.json"
+    },
+    
+    {
       "key": "csp_sbb",
       "name": "🎄明天|素白白",
       "type": 3,
