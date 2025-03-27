@@ -1,12 +1,12 @@
 {
-  "spider": "./jar/f0318.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
   "wallpaper": "./tvbox壁纸/1.PNG",
   "sites": [
     {
       "key": "csp_douban",
-      "name": "🎄明天|豆瓣热播",
+      "name": "🎄明天|豆瓣豆瓣",
       "type": 3,
       "api": "csp_DouDouGuard",
+      "jar": "./jar/f0326B.txt",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
@@ -24,7 +24,7 @@
       "filterable": 1,
       "ext": "./json/厂长.json"
     },
-    
+
     {
       "key": "csp_sbb",
       "name": "🎄明天|素白白",
@@ -36,7 +36,20 @@
       "filterable": 1,
       "ext": "./json/素白白.json"
     },
-    
+
+    {
+      "key": "csp_yh",
+      "name": "🎄明天|樱花如雪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/樱花.json"
+    },
+
+
     {
       "key": "xl",
       "name": "🎄磁力|咻咻洛洛",
@@ -48,6 +61,17 @@
       "filterable": 1,
       "ext": "./json/修罗磁力.json"
     },
+
+    {
+      "key":"BLSGod",
+      "name":"🎄磁力|BLSGod",
+      "type":3,
+      "api":"csp_BLSGod",
+      "jar": "./jar/pg.jar",
+      "changeable":1, 
+      "timeout":60
+    },
+
     {
       "key": "电影港",
       "name": "🎄磁力|电影港",
@@ -141,7 +165,8 @@
       "key": "新6V",
       "name": "🎄磁力|6V",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_SixVGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -168,6 +193,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
     {
       "key": "csp_yfs",
       "name": "🎄磁力|音范丝4K",
@@ -179,17 +205,7 @@
       "filterable": 1,
       "ext": "./json/音范丝.json"
     },
-    {
-      "key": "csp_yh",
-      "name": "🎄明天|樱花如雪",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/樱花.json"
-    },
+
 
     {
       "key": "csp_iqiyi",
@@ -211,45 +227,13 @@
       "quickSearch": 1,
       "ext": "./json/HDmoli.json"
     },
-    {
-      "key": "萌米",
-      "name": "🎄明天|萌米",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
-    },
 
-    {
-      "key": "欢视",
-      "name": "🎄明天|欢视",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-    },
-    {
-      "key": "热播",
-      "name": "🎄明天|热播",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
     {
       "key": "文采",
       "name": "🎄明天|文采秒播",
       "type": 3,
       "api": "csp_JpysGuard",
+      "jar": "./jar/f0326B.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -260,6 +244,7 @@
       "name": "🎄明天|苹果影视",
       "type": 3,
       "api": "csp_LiteAppleGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -269,6 +254,7 @@
       "name": "🎄明天|Auete影视",
       "type": 3,
       "api": "csp_AueteGuard",
+      "jar": "./jar/f0326B.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -280,16 +266,26 @@
       "name": "🎄明天|平台直播",
       "type": 3,
       "api": "csp_AllliveGuard",
+      "jar": "./jar/f0326B.txt",
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    
+    {
+      "key": "drpy_js_Alist",
+      "name": "🎄明天|Alist",
+      "type": 3,
+      "api": "./js/alist.js",
+      "ext": "./json/alist.json"
     },
     {
       "key": "Dm84",
       "name": "🎄明天|巴士动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -299,6 +295,7 @@
       "name": "🎄明天|异界动漫",
       "type": 3,
       "api": "csp_YsjGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -308,6 +305,7 @@
       "name": "🎄明天|日本动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -317,6 +315,7 @@
       "name": "🎄明天|88看球",
       "type": 3,
       "api": "csp_Sir88Guard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -422,13 +421,6 @@
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
     },
     {
-      "key": "drpy_js_Alist",
-      "name": "🎄明天|Alist网盘",
-      "type": 3,
-      "api": "./js/alist.js",
-      "ext": "./json/alist.json"
-    },
-    {
       "key": "AliShare",
       "name": "🎄明天|阿里分享",
       "type": 3,
@@ -460,6 +452,7 @@
       "name": "🎄明天|哔哩合集",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/f0326B.txt",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -484,6 +477,7 @@
       "name": "🎄网盘|玩偶4K",
       "type": 3,
       "api": "csp_WoGGGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -499,7 +493,7 @@
       "name": "🎄网盘|蜡笔4K",
       "type": 3,
       "api": "csp_Duopan",
-      "jar": "./jar/PandaQ250227c.jar",
+      "jar": "./jar/Feimao1217.txt",
       "filterable": 1,
       "ext": {
         "site_urls": [
@@ -663,6 +657,7 @@
       "name": "🎄盘搜|抠抠搜搜",
       "type": 3,
       "api": "csp_KkSsGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -676,6 +671,7 @@
       "name": "🎄盘搜|优汐搜搜",
       "type": 3,
       "api": "csp_UuSsGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -689,6 +685,7 @@
       "name": "🎄盘搜|盘他三盘",
       "type": 3,
       "api": "csp_PanSsoGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -702,6 +699,7 @@
       "name": "🎄盘搜|盘她三盘",
       "type": 3,
       "api": "csp_YpanSoGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -715,6 +713,7 @@
       "name": "🎄盘搜|盘它三盘",
       "type": 3,
       "api": "csp_xzsoGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -728,6 +727,7 @@
       "name": "🎄盘搜|夸父米搜",
       "type": 3,
       "api": "csp_MIPanSoGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -741,6 +741,7 @@
       "name": "🎄盘搜|夸父夸搜",
       "type": 3,
       "api": "csp_PanSearchGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -755,6 +756,7 @@
       "name": "🎄盘搜|盘搜阿狸",
       "type": 3,
       "api": "csp_PanSearchGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -768,6 +770,7 @@
       "name": "🎄盘搜|易搜阿狸",
       "type": 3,
       "api": "csp_YiSoGuard",
+      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
