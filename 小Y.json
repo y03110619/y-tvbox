@@ -464,63 +464,186 @@
         "json": "./js/bilibili.json"
       }
     },
+
     {
-      "key": "配置中心",
-      "name": "🎄网盘|设置中心",
+      "key": "config",
+      "name": "🎄网盘|配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/PandaQ250227c.jar",
-      "playerType": 2
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.61
+      }
     },
     {
       "key": "玩偶",
-      "name": "🎄网盘|玩偶4K",
+      "name": "🎄网盘|玩偶哥哥",
       "type": 3,
       "api": "csp_WoGGGuard",
-      "jar": "./jar/f0326B.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "Cloud-drive": "TVBox/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://www.wogg.one/",
         "danMu": "弹"
       }
     },
     {
-      "key": "csp_Duopan",
-      "name": "🎄网盘|蜡笔4K",
+      "key": "WoggV2",
+      "name": "🎄网盘|玩偶姐姐",
       "type": 3,
-      "api": "csp_Duopan",
-      "jar": "./jar/Feimao1217.txt",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://duopan.fun",
-          "http://labipan.com",
-          "http://feimaoai.site",
-          "https://mihdr.top"
-        ],
-        "url_key": "Duopan2"
-      }
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://我不是.摸鱼儿.com/json/wogg.json?"
     },
     {
-      "key": "csp_XMUC",
+      "key": "移动",
+      "name": "🎄网盘|移动纯净",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "MoggV2",
+      "name": "🎄网盘|木偶4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://我不是.摸鱼儿.com/json/mogg.json?"
+    },
+    {
+      "key": "UcXmV2",
       "name": "🎄网盘|小米4K",
       "type": 3,
-      "api": "csp_Duopan",
-      "jar": "./jar/PandaQ250227c.jar",
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/xm.json?"
+    },
+    {
+      "key": "QuarkLaBiV2",
+      "name": "🎄网盘|蜡笔4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/lb.json?"
+    },
+    {
+      "key": "QuarkzzV2",
+      "name": "🎄网盘|至臻4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/zz.json?"
+    },
+    {
+      "key": "YYDSYS",
+      "name": "🎄网盘|多多4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/yyds.json?"
+    },
+    {
+      "key": "QuarkTZ",
+      "name": "🎄网盘|团长4K",
+      "type": 3,
+      "api": "csp_PanWebTz",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cloudLJ",
+      "name": "🎄网盘|天翼4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "http://我不是.摸鱼儿.com/json/lj.json?"
+    },
+    {
+      "key": "cloudHM",
+      "name": "🎄网盘|海绵4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "http://我不是.摸鱼儿.com/json/hm.json?"
+    },
+    {
+      "key": "pan1",
+      "name": "🎄网盘|Pan1网盘",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "http://我不是.摸鱼儿.com/json/pan1.json?"
+    },
+    {
+      "key": "趣盘",
+      "name": "🎄网盘|趣盘4K",
+      "type": 3,
+      "api": "csp_PanWebQu",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
       "ext": {
-        "site_urls": [
-          "http://www.mucpan.cc",
-          "https://milvdou.fun",
-          "https://54271.fun"
-        ],
-        "url_key": "XMUC"
+        "url": "https://www.qupanshe.com"
       }
     },
+ 
     {
       "key": "csp_FeiMaoUC",
       "name": "🎄网盘|闪电4K",
@@ -535,29 +658,7 @@
         "url_key": "FeiMaoUC"
       }
     },
-    {
-      "key": "csp_Netfixtv",
-      "name": "🎄网盘|至臻4K",
-      "type": 3,
-      "api": "csp_Duopan",
-      "jar": "./jar/PandaQ250227c.jar",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://www.xhww.net",
-          "http://xhww.net",
-          "https://xiaomiai.site"
-        ],
-        "url_key": "Netfixtv2",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 10
-        }
-      }
-    },
+
     {
       "key": "木耳无广",
       "name": "🎄采集|木耳无广",
