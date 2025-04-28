@@ -478,7 +478,7 @@
         "ratio": 1.61
       }
     },
-    {
+      {
       "key": "玩偶",
       "name": "🎄网盘|玩偶哥哥",
       "type": 3,
@@ -498,7 +498,7 @@
       "name": "🎄网盘|玩偶姐姐",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -517,7 +517,7 @@
       "name": "🎄网盘|木偶4K",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -528,19 +528,19 @@
       "name": "🎄网盘|小米4K",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "http://我不是.摸鱼儿.com/json/xm.json?"
+      "ext": "http://我不是.摸鱼儿.com/json/ex.json?"
     },
     {
       "key": "QuarkLaBiV2",
       "name": "🎄网盘|蜡笔4K",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -552,7 +552,7 @@
       "name": "🎄网盘|至臻4K",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -564,7 +564,7 @@
       "name": "🎄网盘|多多4K",
       "type": 3,
       "api": "csp_PanWebShare",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -576,7 +576,7 @@
       "name": "🎄网盘|团长4K",
       "type": 3,
       "api": "csp_PanWebTz",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
@@ -586,7 +586,7 @@
       "name": "🎄网盘|天翼4K",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -601,7 +601,7 @@
       "name": "🎄网盘|海绵4K",
       "type": 3,
       "api": "csp_PanWebShareCloudHM",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
@@ -615,8 +615,8 @@
       "key": "pan1",
       "name": "🎄网盘|Pan1网盘",
       "type": 3,
-      "api": "csp_PanWebShareCloudHM",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "api": "csp_PanWebShareCloud123",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -631,7 +631,7 @@
       "name": "🎄网盘|趣盘4K",
       "type": 3,
       "api": "csp_PanWebQu",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -643,7 +643,6 @@
         "url": "https://www.qupanshe.com"
       }
     },
- 
     {
       "key": "csp_FeiMaoUC",
       "name": "🎄网盘|闪电4K",
@@ -658,7 +657,6 @@
         "url_key": "FeiMaoUC"
       }
     },
-
     {
       "key": "木耳无广",
       "name": "🎄采集|木耳无广",
