@@ -2,6 +2,15 @@
   
   "sites": [
 
+ {
+   "key": "XMVideo",
+   "name": "熊猫视频",
+   "type": 3,
+   "api": "csp_XMVideo",
+   "searchable": 1,
+   "filterable": 1,
+   "jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+  },
 
     {"key": "wxts",
       "name": "无限臀山",
@@ -22,6 +31,15 @@
                "分类": "网曝门$39#抖阴视频$62#探花系列$41#过膝袜$38#麻豆传媒$43#学生诱惑$83#韩国主播$64#欧美精品$32"
               }
     },
+
+{
+   "key": "色播",
+   "name": "色播",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/fish2018/lib/refs/heads/main/js/dr_py/js/sebo.js",
+   "searchable": 1,
+   "changeable": 0
+  },
 
     {"key": "csp_GGYY",
       "name": "GGYY",
@@ -124,6 +142,17 @@
 				"分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
 			}
 		},
+
+{
+   "key": "155资源站",
+   "name": "155资源",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
 
   {
       "key": "❤ 乐播资源",
