@@ -83,6 +83,19 @@
       "filterable": 1,
       "ext": "./json/电影港.json"
     },
+
+    {
+      "key": "csp_85dy",
+      "name": "🎄磁力|85电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./json/85电影网.json"
+    },
+
+    
     {
       "key": "csp_xl8",
       "name": "🎄磁力|迅雷吧",
