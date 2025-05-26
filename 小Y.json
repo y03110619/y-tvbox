@@ -12,49 +12,10 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "ext": "eyJhcGkiOiJodHRwOi8veXl5Lnl5eS1iZXN0LnRvcDoxOTk3IiwidG9rZW4iOiJ3d3cifQ==",
-      "filterable": 1,
-      "quickSearch": 1,
-      "name": "🎄明天| BiliBili",
-      "changeable": 0,
-      "jar": "./jar/spring.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "api": "csp_BiliBili",
-      "type": 3,
-      "key": "csp_BiliBili",
-      "searchable": 1
-    },
-    {
-      "key": "csp_XiaoYa",
-      "name": "🎄明天|小雅超集",
-      "api": "csp_XiaoYa",
-      "jar": "./jar/spring.jar",
-      "ext": "eyJhcGkiOiJodHRwOi8veXl5Lnl5eS1iZXN0LnRvcDoxOTk3IiwidG9rZW4iOiJ3d3cifQ==",
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "type": 3,
-      "searchable": 1
-    },
-    {
-      "ext": "eyJhcGkiOiJodHRwOi8veXl5Lnl5eS1iZXN0LnRvcDoxOTk3IiwidG9rZW4iOiJ3d3cifQ==",
-      "filterable": 1,
-      "quickSearch": 1,
-      "name": "🎄明天|Alist网盘",
-      "changeable": 0,
-      "jar": "./jar/spring.jar",
-      "api": "csp_AList",
-      "type": 3,
-      "key": "csp_AList",
-      "searchable": 1
-    },
+
     {
       "key": "drpy_js_Alist",
-      "name": "🎄明天|Alist(备用)",
+      "name": "🎄明天|Alist网盘",
       "type": 3,
       "api": "./js/alist.js",
       "ext": "./json/alist.json"
