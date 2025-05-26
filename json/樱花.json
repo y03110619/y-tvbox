@@ -1,10 +1,6 @@
 {
   "线路标题": "<h3 class=\"title\">&&</h3>",
   "简介": "小杨祝你观影开心+content__desc\">&&</div>",
-  "播放数组":"class=\"stui-content__playlist clearfix\">&&</ul",
-  "播放列表":"<li&&/li>",
-  "播放标题":">&&</a",
-  "播放链接":"href=\"&&\"",
-  "分类url": "https://yinghuadm.fun/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+  "分类url": "https://www.yhdm.moe/vodtype/{cateId}-{catePg}.html",
+  "分类": "国产动漫$21#欧美动漫$22#日本动漫$20#剧场版$26"
 }
